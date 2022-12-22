@@ -1,0 +1,2 @@
+# mydot
+MyDotfiles ArchCraft
